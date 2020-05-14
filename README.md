@@ -1,7 +1,7 @@
 # TCSPCPhasor： A global approach to TCSPC data analysis.
 A MATLAB app for phasor plot analysis of TCSPC data.
 
-Refer to the manual (20200429_TCSPCPhasor_Manual.pdf) before use.
+Refer to the manual (20200514_TCSPCPhasor_Manual.pdf) before use.
 
 This application allows for:
 * Phasor analysis: Generates lifetime images and tabulated values;
