@@ -1,7 +1,7 @@
 # TCSPCPhasor： A global approach to TCSPC data analysis.
 A MATLAB app for phasor plot analysis of TCSPC data.
 
-Refer to the manual (20200514_TCSPCPhasor_Manual.pdf) before use.
+Refer to the manual (20200604_TCSPCPhasor_Manual.pdf) before use.
 
 This application allows for:
 * Phasor analysis: Generates lifetime images and tabulated values;
@@ -11,6 +11,6 @@ This application allows for:
 
 Notes:
 * Operates on B&H .sdt files (saved in Scan Sync In mode);
-* Requires a MATLAB runtime of 2019B;
+* Requires a MATLAB runtime of 9.7 (i.e. MATLAB 2019B);
 * Requires all m-scripts included in the zipped folder;
 * Requires the Computer Vision Toolbox (please install beforehand).
